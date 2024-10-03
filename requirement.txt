@@ -1,0 +1,6 @@
+requests
+locust
+logging
+torch
+flask
+transformers
